@@ -1,0 +1,47 @@
+body{
+    font: bold 87% cursive
+}
+#postal {
+width: 41%;
+margin-top: 65px;
+margin-left: 223px;
+
+}
+#titulo{
+    
+    float: left;
+}
+#Imagen{
+    margin-left: 403px;
+}
+#con2{
+    margin-top: 28px;
+}
+#sub1{
+    float: left;
+    width: 249px;
+}
+#sub2{
+    
+    margin-left: 283px;
+}
+img {
+    width: 45px;
+    height: 45px;
+    margin-top: 14px;
+}
+.control{
+    border-top-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    margin-top: 3px;
+    font-size: medium;
+   font: bold 87% cursive ; 
+}
+#sub3{
+    margin-top: 77px;
+    margin-left: 183px;
+}
+button{
+    font: bold 87% cursive;
+}
