@@ -31,9 +31,8 @@ img {
     margin-top: 14px;
 }
 .control{
-    border-top-width: 0px;
-    border-left-width: 0px;
-    border-right-width: 0px;
+    border: none;
+    border-bottom: groove;
     margin-top: 3px;
     font-size: medium;
    font: bold 87% cursive ; 
